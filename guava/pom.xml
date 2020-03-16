@@ -109,7 +109,6 @@
               <arg>-AuseSafeDefaultsForUnannotatedSourceCode</arg>
               <arg>-Awarns</arg>
               <arg>${addtionalargs}</arg>
-              <arg>-AprintErrorStack</arg>
             </compilerArgs>
         </configuration>
       </plugin>
